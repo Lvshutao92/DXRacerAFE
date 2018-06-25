@@ -1,0 +1,366 @@
+//tabbar item title
+"vc1Title" = "Home";
+"vc2Title" = "Order";
+"vc3Title" = "Notice";
+//登录
+"jh"  = "Loding...";
+"x1"  = "Business ID";
+"x2"  = "Login Name";
+"x3"  = "Pasword";
+"x4"  = "SIGN IN";
+"x5"  = "Language";
+"x6"  = "ForgetThePassword";
+
+"x7"  = "Search";
+"x8"  = "Start Search";
+"x9"  = "Warm tips";
+"x10"  = "The total volume of your product is:";
+"x11"  = "m³,the system has automatically selected the right container for you Warm prompt: the automatic choice is only the reference, if has the deviation, please adjust by hand";
+"x12"  = "Payment Type";
+"x13"  = "Deposit";
+"x14"  = "Balance";
+"x15"  = "Before Shipment";
+"x16"  = "After Shipment";
+
+"x17"  = "Order Details";
+"x18"  = "Order Details";
+"x19"  = "Please Select";
+"x20"  = "Are you sure you want to delete this item? Delete cannot recover!";
+"x21"  = "Unable to connect to the network! Please check whether the cellular mobile network or wi-fi is available";
+"x22"  = "Login failed to see if the network connection or username password is correct";
+"x23"  = "Purchase quantity in between";
+
+"x24"  = "Edit Success";
+"x25"  = "Edit Faile";
+
+"x26"  = "The old password can't be the same as the new password";
+"x27"  = "New password input is different";
+"x28"  = "Old password error";
+
+
+"xxx"  = "Change Simplified Chinese";
+
+//设置
+"n"   = "Close";
+"y"   = "Save";
+"m1"  = "Old Password";
+"m2"  = "New Password";
+"m3"  = "Sure Password";
+"m4"  = "Name";
+"m5"  = "Mobile Phone";
+//navtitle
+"y1"  = "DXRacer";
+"y2"  = "Order";
+"y3"  = "Shopping Cart";
+"y4"  = "Mine Information";
+//设置
+"y5"  = "Account Management";
+"y6"  = "Change Password";
+"y7"  = "Modify personal information";
+"y8"  = "SIGN OUT";
+//首页菜单
+"btn0"  = "Home";
+"btn1"  = "Company";
+"btn2"  = "Product Manage";
+"btn3"  = "PIA Order";
+"btn4"  = "PIC Order";
+"btn5"  = "PID Order";
+"btn6"  = "Receivables";
+"btn7"  = "Basic Info";
+"btn8"  = "Resource";
+"btn9"  = "Question";
+"btn10" = "DXRacer";
+"btn11" = "System";
+
+"btn12" = "My Info";
+"btn13" = "Payment";
+"btn14" = "Invoice";
+//批量订单  管理
+"pl1"="All orders";
+"pl2"="Pending orders";
+"pl3"="Confirmed orders";
+"pl4"="Ongoing orders";
+"pl5"="Pending delivery";
+"pl6"="Delivered orders";
+"pl7"="Cancelled orders";
+//现货订单
+"xh1"="All orders";
+"xh2"="Pending orders";
+"xh3"="Confirmed orders";
+"xh4"="Pending delivery";
+"xh5"="Delivered orders";
+"xh6"="Cancelled orders";
+//售后订单
+"sh1"="All orders";
+"sh2"="Pending orders";
+"sh3"="Confirmed orders";
+"sh4"="Pending delivery";
+"sh5"="Delivered orders";
+"sh6"="Cancelled orders";
+
+//批量订单  经销商端
+"pl-1"="All Prodcuts";
+"pl-2"="Shopping";
+"pl-3"="Shopping Cart";
+"pl-4"="Order List";
+//现货订单
+"xh-1"="All Prodcuts";
+"xh-2"="Shopping";
+"xh-3"="Shopping Cart";
+"xh-4"="Order List";
+//售后订单
+"sh-1"="Free";
+"sh-2"="Paid";
+"sh-3"="Shopping Cart";
+"sh-4"="Order List";
+
+
+
+
+
+
+
+
+
+//收款管理
+"sk" ="Receivables list";
+//基础配置
+"jc1" ="Currency type";
+"jc2" ="Logistics is defined";
+"jc3" ="Container management";
+"jc4" ="The regional list";
+"jc5" ="List of countries";
+"jc6" ="Port list";
+"jc7" ="Job listings";
+"jc8" ="Department list";
+"jc9" ="Order allocation";
+"jc10"="Certificate of configuration";
+"jc11"="Certificate of origin management";
+"jc12"="Address type";
+"jc13"="The enterprise scale";
+"jc14"="With an operations duration of";
+//我的信息
+"wd1" ="Your company information";
+"wd2" ="Terms of payment";
+"wd3" ="address";
+"wd4" ="The contact";
+"wd5" ="Booking agent";
+"wd6" ="The bank information";
+"wd7" ="Export documents";
+"wd8" ="Certificate management";
+"wd9" ="The VAT invoice";
+"wd10"="Logistics carriers";
+//资源中心
+"zy1"="Announcement of the center";
+"zy2"="The announcement";
+"zy3"="Sharing center";
+//系统管理
+"xt1"="Resource management";
+"xt2"="Role management";
+"xt3"="User management";
+//迪锐克斯
+"dr1"="Your company information";
+"dr2"="Commonly used address";
+"dr3"="The contact";
+"dr4"="The bank information";
+//经销商管理
+"jxs1" ="Your company information";
+"jxs2" ="Product list";
+"jxs3" ="Terms of payment";
+"jxs4" ="bank information";
+"jxs5" ="The contact";
+"jxs6" ="address";
+"jxs7" ="The VAT invoice";
+"jxs8" ="Logistics carriers";
+"jxs9" ="Booking agent";
+"jxs10"="Export documents";
+"jxs11"="Certificate list";
+//产品浏览
+"cp1"="The batch products";
+"cp2"="The spot goods";
+
+
+"cart1"="Total";
+"cart2"="Back";
+"cart3"="Preview";
+"cart4"="Shopping Cart";
+"cart5"="All";
+"cart6"="delete";
+"cancel"="Cancel";
+"sure"  ="Sure";
+"uuu"  ="Are you qualified to apply for the purchase?";
+"no"  ="Confirm the cancellation of purchase qualification?";
+"tishi"  ="Dear Partner,If you place an order now and pay the deposit promptly, our fastest production date will be";
+"submit"  ="Submit";
+
+
+"a1"="Order No";
+"a2"="Total Fee";
+"a3"="Order State";
+"a4"="Company Name";
+"a5"="Container";
+"a6"="Planned Production Date";
+
+
+"a7" ="Apply";
+"a8" ="Image";
+"a9" ="MODEL";
+"a10"="ITEMNO";
+"a11"="FCNO";
+"a12"="NAME";
+"a13"="Package Size(cm)";
+"a14"="Weight(kg)";
+"a15"="HS CODE";
+"a16"="YES Or NO";
+
+"a17"="Have to buy";
+"a18"="applied";
+"a19"="Did not apply for";
+"a20"="INPUT FCNO";
+"a21"="Please enter quantity";
+"a22"="Added to cart";
+"a23"="Application is successful";
+"a24"="Cancel the success";
+
+"b1" ="Image";
+"b2" ="MODEL";
+"b3" ="ITEMNO";
+"b4"="FCNO";
+"b5"="Name";
+"b6"="Price";
+"b7"="Package Size(m³)";
+"b8"="Weight(kg)";
+"b9"="HS CODE";
+
+"c1" ="Inventory";
+"c2" ="Image";
+"c3" ="FCNO";
+"c4"="MODEL";
+"c5"="Name";
+"c6"="Price";
+"c7"="Package Size(m³)";
+"c8"="Weight(kg)";
+"c9"="HS CODE";
+
+"d1" ="Image";
+"d2" ="Part No";
+"d3" ="Name";
+"d4"="Type";
+"d5"="Package Size(cm)";
+"d6"="Weight";
+"d7"="Price";
+"d8"="Inventory";
+"d9"="Qty";
+"d10"="Qty";
+
+"d11"="Payment No";
+"d12"="Amount";
+"d13"="Payment Type";
+"d14"="Payment Status";
+"d15"="Deposit/Balance";
+"d16"="Estimated Date";
+
+"e1"="Unpaid";
+"e2"="Pending audit";
+"e3"="Paid";
+"e4"="canceled";
+"e5"="Deposit";
+"e6"="Retainage";
+
+
+
+
+
+
+"f1"="Applied";
+"f2"="Apply To Buy";
+"f3"="Cancel Apply";
+"f4"="Add To Cart";
+"f5"="Understock";
+"f6"="Preview";
+
+"f7"="AFE Dealer Management System";
+"f8"="The number of single orders is in between";
+"f9"="Inventory";
+"f10"="Sold Out";
+"f11"="Submitted successfully";
+"f12"="There is a new version that needs updating";
+"f13"="Language";
+"f14"="Later";
+"f15"="Update";
+"f16"="Title";
+"f17"="Time";
+
+
+"e7"="Ask Question";
+"e8"="FAQ";
+"e9"="My Questions";
+
+"e10"="Primary Classify";
+"e11"="Second Classify";
+"e12"="Question Content";
+"e13"="Upload File";
+"e14"="submit";
+
+
+"e15"="Questions cannot be empty";
+"e16"="Submitted successfully";
+"e17"="Photo album";
+"e18"="camera";
+"e19"="Select the image access path";
+"e20"="The camera is not available";
+
+
+"g0"="All";
+"g1"="Pending Answer";
+"g2"="Already Answer";
+
+"g3"="Delete success";
+"g4"="Delete failed";
+
+"g5"="Confirm deletion ?";
+"g6"="Whether to confirm the submission of the order";
+"g7"="Submit failed, please resubmit";
+"g8"="Group";
+"g9"="English Name";
+"g10"="Reply content";
+
+
+"g11"="details";
+"g12"="create";
+
+
+"g13"="Associated No.";
+"g14"="Shipment No.";
+
+"h1"="delete";
+"h2"="reply";
+"h3"="Inventory shortage, please adjust, re order";
+"h4"="Once the order is submitted, cannot be amended .";
+"h5"="submit failure";
+
+
+"h6"="Submission of failure, single order quantity in between";
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
