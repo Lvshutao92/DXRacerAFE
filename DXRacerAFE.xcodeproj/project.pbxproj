@@ -369,8 +369,6 @@
 		086D32371F6171E000B4B5A2 /* JC_2_Model.m in Sources */ = {isa = PBXBuildFile; fileRef = 086D32361F6171E000B4B5A2 /* JC_2_Model.m */; };
 		086D323B1F6171F600B4B5A2 /* JC_2_Cell.m in Sources */ = {isa = PBXBuildFile; fileRef = 086D32391F6171F600B4B5A2 /* JC_2_Cell.m */; };
 		086D323C1F6171F600B4B5A2 /* JC_2_Cell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 086D323A1F6171F600B4B5A2 /* JC_2_Cell.xib */; };
-		086DF2BF1FF5C9C200760F91 /* WebTitleCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 086DF2BD1FF5C9C100760F91 /* WebTitleCell.m */; };
-		086DF2C01FF5C9C200760F91 /* WebTitleCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 086DF2BE1FF5C9C100760F91 /* WebTitleCell.xib */; };
 		086DF2D91FF5EF2200760F91 /* PGGDropView.m in Sources */ = {isa = PBXBuildFile; fileRef = 086DF2D71FF5EF2100760F91 /* PGGDropView.m */; };
 		0877AA081F5E6B8A009E96A4 /* JXS_1_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0877AA071F5E6B8A009E96A4 /* JXS_1_ViewController.m */; };
 		0877AA0B1F5E6B99009E96A4 /* JXS_2_ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0877AA0A1F5E6B99009E96A4 /* JXS_2_ViewController.m */; };
@@ -613,6 +611,8 @@
 		08FD43251F6A558E0040FC32 /* FK3WS_Arr2_model.m in Sources */ = {isa = PBXBuildFile; fileRef = 08FD43241F6A558E0040FC32 /* FK3WS_Arr2_model.m */; };
 		08FD43281F6A56C20040FC32 /* FK3WS_Data_model.m in Sources */ = {isa = PBXBuildFile; fileRef = 08FD43271F6A56C20040FC32 /* FK3WS_Data_model.m */; };
 		48CECE919AA5CC64708DB190 /* libPods-DXRacerAFE.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 8D29715710CC1D4FDE8339AB /* libPods-DXRacerAFE.a */; };
+		75F6119E20E35993005E7430 /* WebTitleCell.m in Sources */ = {isa = PBXBuildFile; fileRef = 75F6119B20E35993005E7430 /* WebTitleCell.m */; };
+		75F6119F20E35993005E7430 /* WebTitleCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 75F6119D20E35993005E7430 /* WebTitleCell.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -1278,9 +1278,6 @@
 		086D32381F6171F600B4B5A2 /* JC_2_Cell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JC_2_Cell.h; sourceTree = "<group>"; };
 		086D32391F6171F600B4B5A2 /* JC_2_Cell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JC_2_Cell.m; sourceTree = "<group>"; };
 		086D323A1F6171F600B4B5A2 /* JC_2_Cell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = JC_2_Cell.xib; sourceTree = "<group>"; };
-		086DF2BC1FF5C9C100760F91 /* WebTitleCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = WebTitleCell.h; path = ../../../supplier/DXRacerSupplierAFE/DXRacerSupplierAFE/WebTitleCell.h; sourceTree = "<group>"; };
-		086DF2BD1FF5C9C100760F91 /* WebTitleCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = WebTitleCell.m; path = ../../../supplier/DXRacerSupplierAFE/DXRacerSupplierAFE/WebTitleCell.m; sourceTree = "<group>"; };
-		086DF2BE1FF5C9C100760F91 /* WebTitleCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; name = WebTitleCell.xib; path = ../../../supplier/DXRacerSupplierAFE/DXRacerSupplierAFE/WebTitleCell.xib; sourceTree = "<group>"; };
 		086DF2D71FF5EF2100760F91 /* PGGDropView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PGGDropView.m; sourceTree = "<group>"; };
 		086DF2D81FF5EF2200760F91 /* PGGDropView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PGGDropView.h; sourceTree = "<group>"; };
 		0877AA061F5E6B8A009E96A4 /* JXS_1_ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JXS_1_ViewController.h; sourceTree = "<group>"; };
@@ -1733,6 +1730,9 @@
 		08FD43261F6A56C20040FC32 /* FK3WS_Data_model.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FK3WS_Data_model.h; sourceTree = "<group>"; };
 		08FD43271F6A56C20040FC32 /* FK3WS_Data_model.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FK3WS_Data_model.m; sourceTree = "<group>"; };
 		6AE65DDE98CDF9A6CF71DDF9 /* Pods-DXRacerAFE.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DXRacerAFE.debug.xcconfig"; path = "Pods/Target Support Files/Pods-DXRacerAFE/Pods-DXRacerAFE.debug.xcconfig"; sourceTree = "<group>"; };
+		75F6119B20E35993005E7430 /* WebTitleCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = WebTitleCell.m; sourceTree = "<group>"; };
+		75F6119C20E35993005E7430 /* WebTitleCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = WebTitleCell.h; sourceTree = "<group>"; };
+		75F6119D20E35993005E7430 /* WebTitleCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = WebTitleCell.xib; sourceTree = "<group>"; };
 		8A38B248CE952BB8D965BAB9 /* Pods-DXRacerAFE.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-DXRacerAFE.release.xcconfig"; path = "Pods/Target Support Files/Pods-DXRacerAFE/Pods-DXRacerAFE.release.xcconfig"; sourceTree = "<group>"; };
 		8D29715710CC1D4FDE8339AB /* libPods-DXRacerAFE.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-DXRacerAFE.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
@@ -2148,11 +2148,11 @@
 				084AA4511F5D273D004E0C71 /* MainPageViewController.m */,
 				080265021F68B9A000B498E0 /* WebViewController.h */,
 				080265031F68B9A000B498E0 /* WebViewController.m */,
+				75F6119C20E35993005E7430 /* WebTitleCell.h */,
+				75F6119B20E35993005E7430 /* WebTitleCell.m */,
+				75F6119D20E35993005E7430 /* WebTitleCell.xib */,
 				0826FBD81F67E0500077D1BA /* HomepageModel.h */,
 				0826FBD91F67E0500077D1BA /* HomepageModel.m */,
-				086DF2BC1FF5C9C100760F91 /* WebTitleCell.h */,
-				086DF2BD1FF5C9C100760F91 /* WebTitleCell.m */,
-				086DF2BE1FF5C9C100760F91 /* WebTitleCell.xib */,
 				0877AAD91F5E9376009E96A4 /* Property List.plist */,
 				08F0BB7F1F95D0C0000259D6 /* Tabbar_Two_ViewController.h */,
 				08F0BB801F95D0C0000259D6 /* Tabbar_Two_ViewController.m */,
@@ -3851,7 +3851,6 @@
 				0832C5BE1F7CC3CD00565D9A /* JXS_9_Cell.xib in Resources */,
 				084994471FA9B564000A8858 /* ShouHou_Youchang_Cell.xib in Resources */,
 				084417571FA71D3F00D5F836 /* PiLiang_Chanpinliulan_Cell.xib in Resources */,
-				086DF2C01FF5C9C200760F91 /* WebTitleCell.xib in Resources */,
 				08382A731F6F57AB0047B33A /* DX2Cell.xib in Resources */,
 				082FD73A1F71FA370023DAED /* LeftTableViewCell.xib in Resources */,
 				0817B2FF1F6BD35F00915073 /* WD_6_Cell.xib in Resources */,
@@ -3948,6 +3947,7 @@
 				089970B41F5544A100E8359F /* FYLCity.plist in Resources */,
 				080265841F69198000B498E0 /* FK3_details_Cell.xib in Resources */,
 				08FD431C1F6A46B40040FC32 /* FK3_WanShan_ViewController.xib in Resources */,
+				75F6119F20E35993005E7430 /* WebTitleCell.xib in Resources */,
 				0832C5E41F7CE6B700565D9A /* JXS_13_Cell.xib in Resources */,
 				089360C71F7E52E7005AB10E /* WDFP_Xq_Cell.xib in Resources */,
 				0804DE091FA8736E000E95AA /* Piliang_Yulan_Cell.xib in Resources */,
@@ -4191,6 +4191,7 @@
 				085C14681F8B62BE00E331EC /* CHGL_Model.m in Sources */,
 				08382ABE1F6FAB610047B33A /* AuditViewController.m in Sources */,
 				087CF59C1FFF59DC00A6682F /* CJWT_ViewController.m in Sources */,
+				75F6119E20E35993005E7430 /* WebTitleCell.m in Sources */,
 				08382AB21F6F69A00047B33A /* DX_5_ViewController.m in Sources */,
 				0817B2D81F6B995D00915073 /* WD3address_con_model.m in Sources */,
 				089970EE1F5547DE00E8359F /* UIImage+ImageEffects.m in Sources */,
@@ -4336,7 +4337,6 @@
 				089970E71F5547D300E8359F /* ShareView.m in Sources */,
 				0877AA811F5E8052009E96A4 /* XT_1_ViewController.m in Sources */,
 				0868EBD91F6D017300D75233 /* Wd_9_Cell.m in Sources */,
-				086DF2BF1FF5C9C200760F91 /* WebTitleCell.m in Sources */,
 				080713871F67716C00FB7FA2 /* XH01Cell.m in Sources */,
 				081FE70D1F593F1B00FA053F /* SKTableViewController.m in Sources */,
 				0802652E1F690ABA00B498E0 /* FK3Cell.m in Sources */,
@@ -4687,7 +4687,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: DXRACER TECHNOLOGY  WUXI. CO.,LTD (8549J8BJBB)";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 8549J8BJBB;
-				GCC_PREFIX_HEADER = "/Users/ilovedxracer/Documents/证书项目/a f e/DXRacerAFE/DXRacerAFE/PrefixHeader.pch";
+				GCC_PREFIX_HEADER = "$(SRCROOT)/DXRacerAFE/PrefixHeader.pch";
 				INFOPLIST_FILE = DXRacerAFE/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
@@ -4710,7 +4710,7 @@
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: DXRACER TECHNOLOGY  WUXI. CO.,LTD (8549J8BJBB)";
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = 8549J8BJBB;
-				GCC_PREFIX_HEADER = "/Users/ilovedxracer/Documents/证书项目/a f e/DXRacerAFE/DXRacerAFE/PrefixHeader.pch";
+				GCC_PREFIX_HEADER = "$(SRCROOT)/DXRacerAFE/PrefixHeader.pch";
 				INFOPLIST_FILE = DXRacerAFE/Info.plist;
 				IPHONEOS_DEPLOYMENT_TARGET = 8.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
